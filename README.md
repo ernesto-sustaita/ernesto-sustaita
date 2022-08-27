@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ernesto-sustaita
-- 👀 I’m interested in Open/Free software - Web Development
-- 🌱 I’m currently learning Angular, Node.js
-- 💞️ I’m looking to collaborate on Libre Office
+- 👀 I’m interested in .NET, C#, PHP, Angular, Open/Free software - Web Development
+- 🌱 I’m currently learning Angular, Node.js, MongoDB
+- 💞️ I’m looking to collaborate on Libre Office and/or other Open/Free software projects
 <!--- 📫 How to reach me --->
 
 <!---
